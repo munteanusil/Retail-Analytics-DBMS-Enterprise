@@ -1,4 +1,4 @@
-﻿USE RetailStoreDB;
+USE RetailStoreDB;
 GO
 
 
